@@ -1,0 +1,8 @@
+Flask==2.3.2
+langchain_groq
+langchain_core
+langchain_community
+pypdf
+chromadb
+sentence_transformers
+kagglehub
