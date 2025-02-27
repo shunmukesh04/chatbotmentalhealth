@@ -1,0 +1,6 @@
+.\venv\Scripts\activate   
+
+pip install flask langchain langchain_community langchain_groq langchain-huggingface chromadb kagglehub
+
+
+python run.py  
